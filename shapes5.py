@@ -6,9 +6,9 @@ bTri.setFill(color_rgb(30, 30,230))
 gSqur = Polygon(Point(500, 500), Point(500, 600), Point (600, 600), Point(600, 500))
 gSqur.setFill(color_rgb(30, 230, 30))
 
-##orromb = Polygon(Point(500, 500), Point(500, 600), Point (600, 600), Point(600, 500))
-##gSqur.setFill(color_rgb(30, 230, 30))
-##gSqur.draw(window)
+##orRomb = Polygon(Point(500, 500), Point(500, 600), Point (600, 600), Point(600, 500))
+##orSqur.setFill(color_rgb(30, 230, 30))
+##orSqur.draw(window)
 
 gSqur.draw(window)
 bTri.draw(window)
